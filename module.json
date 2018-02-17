@@ -1,11 +1,11 @@
 {
   "id": "{a46b1e40-db0b-4b1e-866d-0a5273af55aa}}",
-  "name": "WundergroundWetter",
+  "name": "Wetter",
   "type": 3,
   "vendor": "Alex",
-  "aliases": ["WundergroundWetter"],
+  "aliases": ["Wetter"],
   "parentRequirements": [],
   "childRequirements": [],
   "implemented": [],
-  "prefix": "WD"
+  "prefix": "ALX"
 }
