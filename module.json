@@ -2,7 +2,7 @@
   "id": "{a46b1e40-db0b-4b1e-866d-0a5273af55aa}}",
   "name": "WundergroundWetter",
   "type": 3,
-  "vendor": "",
+  "vendor": "Alex",
   "aliases": ["WundergroundWetter"],
   "parentRequirements": [],
   "childRequirements": [],
