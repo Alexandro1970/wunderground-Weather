@@ -2,7 +2,7 @@
 
 //require_once(__DIR__ . "/../OnkyoAVRClass.php");  // diverse Klassen
     // Klassendefinition
-    class WundergroundWetter extends IPSModule
+    class Wetter extends IPSModule
      {
         // Der Konstruktor des Moduls
         // Überschreibt den Standard Kontruktor von IPS
